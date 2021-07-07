@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center"> Hi there, I'm George 👋 </h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=georgehwho&show_icons=true&theme=dracula"/>
+</div>
+
+---
+<h3 align="center"> Current Vibe 🌴 </h3>
+<div align="center">
+  <img src="https://i.imgur.com/v2HGrzb.png"/>
+</div>
 
 <!--
 **georgehwho/georgehwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
