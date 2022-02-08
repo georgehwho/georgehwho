@@ -5,7 +5,6 @@
 </div>
 
 ---
-<h3 align="center"> Current Vibe 🌴 </h3>
 <div align="center">
   <img src="https://i.imgur.com/v2HGrzb.png"/>
 </div>
